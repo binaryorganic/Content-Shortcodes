@@ -17,6 +17,7 @@ Content Shortcodes creates a custom post type to organize repeatable content tha
 Using the plugin is incredibly straightforward. You simply create new modular content for your site under the new Shortcodes post type, and then add that content to your site’s posts and pages with a simple shortcode.
 
 Demo Video: https://vimeo.com/85557648
+
 GitHub URL: https://github.com/binaryorganic/content-shortcodes
 
 
@@ -41,7 +42,9 @@ where “XX” equals the post-id of the content shortcode you would like to use
 = What exactly does the plugin do? =
 
 1) Creates a new post-type called Shortcodes
+
 2) Creates a self-closing shortcode called [content-shortcode]
+
 3) Adds a column in your View Posts screen that gives you easy access to Post IDs.
 
 = Why not just use widgets? =

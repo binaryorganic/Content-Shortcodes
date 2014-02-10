@@ -3,7 +3,7 @@
  * Plugin Name: Content Shortcodes
  * Plugin URI: http://binaryorganic.com/content-shortcodes
  * Description: Content Shortcodes creates a custom post type to organize repeatable content that can be embedded into your site using Wordpress shortcodes. Never deal with widgets for repeatable content again.
- * Version: 0.2
+ * Version: 1.0
  * Author: binary/organic
  * Author URI: http://binaryorganic.com
  * License: GPL2
